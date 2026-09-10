@@ -31,3 +31,17 @@ button {
     color: white;
     border: none;
 }
+table {
+    background-color: white;
+    padding: 10px;
+}
+
+th {
+    background-color: #1e3a8a;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
