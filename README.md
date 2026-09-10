@@ -1,9 +1,7 @@
 \# 🏥 Hospital Appointment Management System
 
 
-
-A complete Hospital Appointment Management System for patients, doctors, and appointments.
-
+A modern and complete Hospital Appointment Management System for managing patients, doctors, and healthcare appointments.
 
 
 \## Modules
