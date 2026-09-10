@@ -2,7 +2,7 @@
 
 
 
-A web-based Hospital Appointment Management System for managing patients, doctors, appointments, and appointment history.
+A modern Hospital Appointment Management System for managing healthcare appointments.
 
 
 
